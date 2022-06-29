@@ -1,3 +1,6 @@
 jwt:
   time: 1000
   ret: hello-world
+posco:
+  name: 3기
+  count: 20
