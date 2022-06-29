@@ -1,0 +1,3 @@
+jwt:
+  time: 1000
+  sceret: hello-world
