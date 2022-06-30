@@ -1,7 +1,6 @@
 jwt:
   time: 904532523
   ret: hello-worl3245555
-
 posco:
   name: 3542기
   count: 2044ㄱ33244
@@ -9,9 +8,11 @@ posco:
     url: jdbc:mysql://?.?.?.?:3306/test?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Seoul
     username: rollin
     password: 1234
-
 spring:
   datasource:
     url: jdbc:mysql://?.?.?.?:3306/test?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Seoul
     username: rollin
     password: 1234
+jwt:
+  secret_key: SECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEY
+  expTime : 86400000
